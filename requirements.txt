@@ -1,5 +1,0 @@
-streamlit
-fastembed
-faiss-cpu
-groq
-numpy
